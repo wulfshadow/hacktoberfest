@@ -2,6 +2,8 @@
 
 # hacktoberfest
 
+![hacktoberfest](https://github.com/ardananjungkusuma/hacktoberfest-2019/raw/master/img/hacktoberfest.png)
+
 Hi there!, this is a [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com) starter repo. Hacktoberfest rule is pretty simple, just to **register and make four pull requests (PRs) between October 1-31 (in any time zone)**.
 
 If you have'nt register to Hacktoberfest 2019, go register at https://hacktoberfest.digitalocean.com.
@@ -20,3 +22,8 @@ Create a simple code in **/helloworld** to print *"Hello World"* in you favourit
 - Click **compare accross fork**.
 - Compre the **base** of this repo, and the **head** of your repo. You will see the change you make in your forked repo.
 - Finally, click **Add pull request** and wait your PR (pull request) to be merged by author of this repo.  :tada: :tada:
+
+
+### Oh crap!, I got a merge conflift :disappointed_relieved:
+
+Just delete your forked repo (**Settings -> Delete this repository**), then re-fork this repo again :grin:
