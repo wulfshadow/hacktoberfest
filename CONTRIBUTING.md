@@ -9,7 +9,7 @@ You can choose one of these :wink: :
 
 I've add some example in those folder, go check it
 
-**:warning: The duplicate code / programming language type type is not accepted and will not be merged**
+**:warning: The duplicate code / programming language type is not accepted and will not be merged**
 
 ### How To Contribute?
 
