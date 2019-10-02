@@ -4,6 +4,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/ezralazuardy/hacktoberfest?style=flat-square)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezralazuardy%2Fhacktoberfest)
 
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ezralazuardy/hacktoberfest?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ezralazuardy/hacktoberfest?color=green&style=flat-square)
+
 # hacktoberfest
 
 ![hacktoberfest](https://raw.githubusercontent.com/ezralazuardy/hacktoberfest/master/assets/hacktoberfest.png)
