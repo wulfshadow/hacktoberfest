@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/ezralazuardy/hacktoberfest)](https://github.com/ezralazuardy/hacktoberfest/blob/master/LICENSE)
+
 # hacktoberfest
 
 Hi there!, this is a [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com) starter repo. Hacktoberfest rule is pretty simple, just to register and make four pull requests (PRs) between October 1-31 (in any time zone).
