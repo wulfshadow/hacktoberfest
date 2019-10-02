@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/ezralazuardy/hacktoberfest)](https://github.com/ezralazuardy/hacktoberfest/blob/master/LICENSE)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezralazuardy%2Fhacktoberfest)
 
 # hacktoberfest
 
