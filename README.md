@@ -2,7 +2,9 @@
 
 # hacktoberfest
 
-Hi there!, this is a [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com) starter repo. Hacktoberfest rule is pretty simple, just to register and make four pull requests (PRs) between October 1-31 (in any time zone).
+Hi there!, this is a [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com) starter repo. Hacktoberfest rule is pretty simple, just to **register and make four pull requests (PRs) between October 1-31 (in any time zone)**.
+
+If you have'nt register to Hacktoberfest 2019, go register at https://hacktoberfest.digitalocean.com.
 
 Start to create your pull request and get a free T-Shirt from Github and DigitalOcean. :tada:
 
