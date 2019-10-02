@@ -24,6 +24,6 @@ Create a simple code in **/helloworld** to print *"Hello World"* in you favourit
 - Finally, click **Add pull request** and wait your PR (pull request) to be merged by author of this repo.  :tada: :tada:
 
 
-### Oh crap!, I got a merge conflift :disappointed_relieved:
+### Oh crap!, I got a merge conflict :disappointed_relieved:
 
 Just delete your forked repo (**Settings -> Delete this repository**), then re-fork this repo again :grin:
