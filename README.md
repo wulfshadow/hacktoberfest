@@ -19,7 +19,15 @@ Start to create your pull request and get a free T-Shirt from Github and Digital
 
 ### The Simple Rule
 
-Create a simple code in **/helloworld** to print *"Hello World"* in you favourite programming language :wink:
+You can choose one of these :wink: :
+
+- Create a simple code in **/helloworld** to print *"Hello World"* in you favourite programming language
+- Create a **recursion factorial function** in **/factorial_recursion** to calculate a *factorial of number* in your favourite programming language
+- Create a **interation factorial function** in **/factorial_iteration** to calculate a *factorial of number* in your favourite programming language
+
+I've add some example in those folder, go check it
+
+**:warning: The duplicate code / programming language type type is not accepted and will not be merged**
 
 ### How to
 
