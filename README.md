@@ -18,5 +18,5 @@ Create a simple code in **/helloworld** to print *"Hello World"* in you favourit
 - In your forked repo, make change (edit or add new file) in **/helloworld** folder, then **commit** it to your master / other branch.
 - Back to this repo, click **Pull requests -> New pull request**.
 - Click **Compare Accross Fork**.
-- Compre the base of this repo, with the **head** of your repo. You will see the change you make in your forked repo.
+- Compre the **base** of this repo, and the **head** of your repo. You will see the change you make in your forked repo.
 - Finally, click **Add pull request** and wait your PR (pull request) to be merged by author of this repo.  :tada: :tada:
