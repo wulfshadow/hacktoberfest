@@ -6,7 +6,7 @@
 
 # hacktoberfest
 
-![hacktoberfest](https://github.com/ardananjungkusuma/hacktoberfest-2019/raw/master/img/hacktoberfest.png)
+![hacktoberfest](https://raw.githubusercontent.com/ezralazuardy/hacktoberfest/master/assets/hacktoberfest.png)
 
 Hi there!, this is a [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com) starter repo. Hacktoberfest rule is pretty simple, just to **register and make four pull requests (PRs) between October 1-31 (in any time zone)**
 
