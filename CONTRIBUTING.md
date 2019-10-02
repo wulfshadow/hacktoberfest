@@ -1,8 +1,17 @@
 ### The Simple Rule
 
-Create a simple code in **/helloworld** to print *"Hello World"* in you favourite programming language :wink:
+You can choose one of these :wink: :
 
-### How to contribute?
+- Create a simple code in **/helloworld** to print *"Hello World"* in you favourite programming language
+- Create a simple code in **/sqrt** to calculate a *square root of number* in your favourite programming language
+- Create a **recursion factorial function** in **/factorial_recursion** to calculate a *factorial of number* in your favourite programming language
+- Create a **interation factorial function** in **/factorial_iteration** to calculate a *factorial of number* in your favourite programming language
+
+I've add some example in those folder, go check it
+
+**:warning: The duplicate code / programming language type type is not accepted and will not be merged**
+
+### How To Contribute?
 
 - If you haven't fork this repo, then fork this repo to your github
 - In your forked repo, make change (edit or add new file) in **/helloworld** folder, then **commit** it to your master / other branch
