@@ -1,7 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/ezralazuardy?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ezralazuardy/hacktoberfest?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ezralazuardy/hacktoberfest?style=social)
-
 ![GitHub search hit counter](https://img.shields.io/github/search/ezralazuardy/hacktoberfest/hacktoberfest?color=red&style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/ezralazuardy/hacktoberfest?color=purple&style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/ezralazuardy/hacktoberfest?style=flat-square)
