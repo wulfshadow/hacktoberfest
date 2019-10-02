@@ -15,7 +15,9 @@ Hi there!, this is a [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com
 
 If you have'nt register to Hacktoberfest 2019, go register at https://hacktoberfest.digitalocean.com
 
-Start to create your pull request and get a free T-Shirt from Github and DigitalOcean :tada:
+Start create your pull request and get a free T-Shirt from Github and DigitalOcean :tada:
+
+If you like this repo, please give it a :star: :blush:
 
 ### The Simple Rule
 
