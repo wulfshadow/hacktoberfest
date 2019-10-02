@@ -1,4 +1,4 @@
-program HelloWorld;
+program helloworld;
 
 begin
   println("Hello World");
